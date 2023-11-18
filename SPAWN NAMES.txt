@@ -1,0 +1,12 @@
+Ally - prop_flag_ally
+ASEXUAL - prop_flag_asexual
+BEAR - prop_flag_bear
+BISEXUAL - prop_flag_bisexual
+LESBIAN - prop_flag_lesbian
+TRANSGENDER - prop_flag_transgender
+PANSEXUAL - prop_flag_pansexual
+PRIDE - prop_flag_pride
+
+
+PIRATE - prop_flag_pirate
+THE LOST MC - prop_flag_lostmc
