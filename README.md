@@ -1,6 +1,6 @@
 <h1 align="center">Tay's Flags 🏳️‍🌈🏳️‍⚧️</h1>
 
-<h2 align="center"> Add On Flags For FiveM </h2>
+<h2 align="center"> Add On Flags For Single Player & FiveM </h2>
 
 
 <img src="showcase.png" width="4050">
@@ -26,10 +26,16 @@ This is a little project I slapped together after I wanted to figure out how I c
 <p align="center"><b>THE LOST MC - prop_flag_lostmc</b></p>
 
 <h1 align="center">INSTALLATION ⚙️:</h1>
+<h2 align="Left:">FiveM</h2>
 
 Simply drop the folder 'TaysFlags' into your resources folder and add 'ensure TaysFlags' in your server.cfg
 
 You can now add these flags to your map using codewalker. Just make sure to match the [DLC Level with your FiveM gamebuild](https://forum.cfx.re/t/tutorial-forcing-gamebuilds-on-fivem/4784977).
+
+<h2 align="Left:">Single Player</h2>
+
+Drag and drop the mods folder inside of your GTA 5's directory, The props should now work and you can spawn them in via Menyoo, however preferably you should use Codewalker.
+
 
 # Don't want pride?
 
